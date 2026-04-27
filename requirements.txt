@@ -1,0 +1,9 @@
+streamlit
+openai-whisper
+numpy
+sentence-transformers
+scipy
+textstat
+matplotlib
+gtts
+litellm
